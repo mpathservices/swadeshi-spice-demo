@@ -55,3 +55,8 @@ Technical Features
 - Secondary Blue: #34495e (Slate)
 - Accent Green: #228b22 (Forest Green)
 - Background: #f8f9fa (Light Gray)
+
+📞 Contact For inquiries about custom website development - please reach out through www.mpathservices.com. This is a demonstration website created to showcase modern web design capabilities for local small business owner into grocery business.
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details. The MIT License allows you to use, modify, and distribute this code freely while maintaining proper attribution.
