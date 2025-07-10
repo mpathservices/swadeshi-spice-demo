@@ -56,6 +56,8 @@ Technical Features
 - Accent Green: #228b22 (Forest Green)
 - Background: #f8f9fa (Light Gray)
 
+Visit the demo website here: https://mpathservices.github.io/swadeshi-spice-demo/
+
 📞 Contact For inquiries about custom website development - please reach out through www.mpathservices.com. This is a demonstration website created to showcase modern web design capabilities for local small business owner into grocery business.
 
 📄 License
