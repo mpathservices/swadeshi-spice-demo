@@ -411,6 +411,32 @@
             opacity: 1;
             transform: translateY(0);
         }
+
+        @media (max-width: 768px) {
+    .nav-links {
+        display: none; /* Hidden by default */
+        flex-direction: column; /* Stack vertically */
+        position: absolute;
+        top: 100%; /* Position below the header */
+        left: 0;
+        width: 100%;
+        background: linear-gradient(135deg, #ff6b35 0%, #f7941d 100%); /* Match your design */
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        z-index: 1000;
+    }
+    
+    .nav-links li {
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid #eee; /* Optional: separator lines */
+    }
+    
+    .nav-links a {
+        display: block;
+        padding: 15px;
+        width: 100%;
+    }
+}
     </style>
 </head>
 <body>
